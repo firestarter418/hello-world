@@ -1,0 +1,1211 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "TheCompleteMartialistHandbook",
+				"abbreviation": "CMH",
+				"full": "The Complete Martialist Handbook",
+				"authors": [
+					"Benjamin Huffman and Ross Leiser"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net//Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/DMsGuild/D&D5e%20-%20The%20Complete%20Martialist%20Handbook%20v0.2.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Black Powder Expert",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"Thanks to extensive practice with firearms, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you roll a 1 or 2 on a damage die for an attack made with a black powder weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.",
+						"Once per turn when you roll the maximum result of a damage die of an attack made with a black powder weapon, you can roll another die of the same type and add both dice to the damage dealt."
+					]
+				}
+			]
+		},
+		{
+			"name": "Defensive Weapon Master",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"While you are wielding a shield or one or more defensive weapons, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You can use a bonus action to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has disadvantage if you can see the attacker. This benefit ends early if you are incapacitated (as explained in Appendix A of the Player’s Handbook) or your speed drops to 0.",
+						"When you take the Dodge action on your turn, you can spend one Hit Die to steel yourself. Roll the die, add your Constitution modifier, and gain a number of temporary hit points equal to the total (minimum 1)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dwarven Combat Expert",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"Whether you were born a dwarf or not, you are trained in their military methods and have mastered the use of axes and hammers in combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you make a weapon attack with a battleaxe or warhammer you are wielding in two hands and beat the creature’s AC by 5 or more, you deal an additional 1d6 damage.",
+						"When you are wielding a battleaxe or warhammer in one hand, you use the damage die as if you were wielding it with two hands.",
+						"The first time you make a thrown weapon attack with a handaxe or light hammer in normal range against creatures Large or larger on a turn, you have advantage on the attack roll.",
+						"Battleaxes, handaxes, light hammers, and warhammers count as having the defensive weapon property when you wield them."
+					]
+				}
+			]
+		},
+		{
+			"name": "Elven Combat Expert",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"Whether you were born an elf or not, you are trained in their military methods and have mastered the use of swords and bows in combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Longswords count as having the defensive and finesse weapon properties when you wield them.",
+						"When you are wielding a longsword or shortsword, you can use a bonus action on your turn to prepare a parry. The first melee attack against you before the start of your next turn has disadvantage.",
+						"When you make a weapon attack with a shortbow or longbow and beat the creature’s AC by 5 or more, you deal an additional 1d6 damage."
+					]
+				}
+			]
+		},		{
+			"name": "Fencer",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"While you are wielding a dagger, greatsword, longsword, rapier, or shortsword, you can use the following special abilities:",
+				{
+					"type": "list",
+					"items": [
+						"Parry. When a creature within 5 feet of you hits you with a weapon attack, you can use your reaction to gain +2 AC against the triggering attack.",
+						"Riposte. When a creature misses a melee attack against you, you can use your reaction to make one weapon attack against the creature if it is within your reach.",
+						"Thrust. When you hit a creature with a weapon attack, you can move yourself and the creature 5 feet in any direction as long as you remain within 5 feet of one another."
+					]
+				}
+			]
+		},
+		{
+			"name": "Halfling Combat Expert",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"Whether you were born a halfling or not, you are trained in their military methods and have mastered the use of slings in combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you end your turn without moving, before your next turn when a creature within 30 feet of you moves, you can use your reaction to make a ranged weapon attack with a sling against that creature.",
+						"Once per turn when you make a ranged weapon attack without disadvantage using a sling, you can make an additional ranged weapon attack with a sling against a different creature.",
+						"The first time you score a critical hit with a sling against a creature on a turn, that creature has disadvantage on all attack rolls and ability checks it makes until the start of your next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Inexhaustible",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"Whether through natural fortitude or intensive training, you are inexhaustible. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Constitution score by 1, to a maximum of 20.",
+						"As a bonus action on your turn, you gain temporary hit points equal to 1d10 + your Constitution modifier. Once you use this ability, you must finish a long rest before you can do so again.",
+						"When you finish a long rest, your exhaustion level is reduced by 2 (instead of 1), provided that you have ingested food and drink."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mariner",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have spent time at sea and learned to use the tools of a mariner in combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You have a swimming speed equal to your base walking speed.",
+						"When a creature provokes an opportunity attack from you, you can use your reaction to make a ranged weapon attack against that creature with a net.",
+						"When you make a ranged attack with a net, you do not have disadvantage for being within 5 feet of a hostile creature or creatures.",
+						"When you wield a trident with one hand, its damage die changes to 1d8 from 1d6. When you wield a trident with two hands, its damage die changes to 1d10 from 1d8.",
+						"Tridents count as having the reach property for you."
+					]
+				}
+			]
+		},		
+		{
+			"name": "Martial Artist (Crashing Wave Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"When you make an unarmed strike attack against a creature and beat the target’s AC by 5 or more, you can move it 5 feet in a direction of your choice.",
+						"When you take the Attack action, you can use a bonus action on the same turn to make an unarmed strike against a creature within 5 feet. If this unarmed strike hits, you deal no damage and instead knock the creature prone or push the creature 5 feet in any direction (your choice).",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},		{
+			"name": "Martial Artist (Drunken Monkey Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"When you take the Dash or Dodge action on your turn, you can make one unarmed strike as a bonus action.",
+						"When a creature moves out of your reach, you can use your reaction to attempt to grapple the creature.",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},		{
+			"name": "Martial Artist (Fanged Serpent Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"When a creature within 5 feet misses you with an attack, you can use your reaction to make one unarmed strike attack against that creature.",
+						"You learn to strike your enemies’ vital organs, causing them to discharge dangerous toxins into their own bodies. When you deal damage with an unarmed strike to a creature who is not a construct or undead, you can choose to deal poison damage instead of the bludgeoning damage normal for an unarmed strike. If you do, you deal +2 damage.",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},		{
+			"name": "Martial Artist (Iron Fist Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"When you roll a 1 or 2 on a damage die for an attack you make with an unarmed strike that applied your Strength modifier to the attack and damage roll, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.",
+						"Before you make an attack with an unarmed strike, you can choose to take a penalty to the attack roll equal to your proficiency bonus. If the attack hits, you add twice your proficiency bonus to the attack’s damage.",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},		{
+			"name": "Martial Artist (Silent Shadow Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"Your unarmed strikes count as having the finesse weapon property.",
+						"While you aren’t wearing armor or wielding a shield, your AC equals 10 + your Dexterity modifier + half your proficiency bonus.",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},		{
+			"name": "Martial Artist (Spider Clan Style)",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Dexterity score by 1, to a maximum of 20.",
+						"You can roll a d4 in place of the normal damage of your unarmed strike. This die changes if you take this feat additional times. It becomes a d6 when you take this feat a second time and a d8 when you take this feat a third time.",
+						"You gain a climbing speed equal to your base walking speed.",
+						"When you take the Attack action and replace one or more of your attacks with a grapple, you can make an additional unarmed strike attack as part of the same action.",
+						"You may take this feat up to three times, gaining the ability score increase and learning another martial art style each time."
+					]
+				}
+			]
+		},
+		{
+			"name": "Miner",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You’ve spent a great deal of time underground and have learned how to survive and fight in a mine. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength or Constitution score by 1, to a maximum of 20.",
+						"You gain darkvision out to a range of 30 feet. If you already have darkvision, its range increases by 30 feet.",
+						"While you are wielding a warpick, you have a burrowing speed of 5 feet.",
+						"When you hit a creature with a warpick on your turn and are also wielding a hammer, you can use a bonus action on the same turn to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier."
+					]
+				}
+			]
+		},
+		{
+			"name": "Nerves of Steel",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You are difficult to startle and stay calm under pressure. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Wisdom score by 1, to a maximum of 20.",
+						"You have advantage on saving throws against being frightened.",
+						"When you take psychic damage, you can use your reaction to gain resistance to psychic damage (including from the triggering attack) until the start of your next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Poisoncraft",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have extensive experience dealing with poisons. You have resistance to poison damage and gain advantage on saving throws against being poisoned. In addition, when you take a long rest, you can create one dose of one the following poisons from materials you have on hand:",
+				{
+					"type": "list",
+					"items": [
+						"Powderboil. This powdered poison can be applied to a weapon with the Use an Object action. The next time the weapon deals damage to a creature, it must succeed on a Constitution saving throw or take poison damage. This poison damage is Xd8, where X equals half your level.",
+						"Stomachturner. This slick oil can be applied to a weapon with the Use an Object action. The next time the weapon deals damage, the creature must succeed on a Constitution saving throw or be poisoned for 1 minute, or until they spend an action on their turn retching up the contents of their stomach.",
+						"Night’s Kiss. This tasteless and odorless liquid can be slipped into drink or food. When a creature consumes the poison, it must make a Constitution saving throw or become unconscious for 10 minutes or until it takes damage.",
+						"The DC for all saving throws for poisons created with this feat is 8 + your proficiency bonus + your Intelligence modifier."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Grip",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have an unusually strong grip for your size. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength score by 1, to a maximum of 20.",
+						"Being Small doesn’t impose disadvantage on your attack rolls with heavy weapons.",
+						"If you’re Medium or larger, you can use the twohanded damage die of versatile weapons when you are wielding them with one hand.",
+						"Your Strength score is doubled for the purpose of determining your carrying capacity and the weight you can push, drag, or lift."
+					]
+				}
+			]
+		},		{
+			"name": "Staff Master",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"While you are wielding a bo staff, club, greatclub, or quarterstaff and no other weapons, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"As a bonus action on your turn, you can take a defensive stance, gaining a +1 bonus to AC until the start of your next turn.",
+						"As a bonus action on your turn, you can make a melee attack against a creature one size larger than you or smaller. On a hit, you deal no damage but instead push the creature 5 feet or knock it prone.",
+						"The first time you score a critical hit on a creature on a turn, it is incapacitated until the end of its next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Stylized Fighter",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have learned to specialize in a particular method of combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.",
+						"You choose and learn one Fighting Style option of your choice among those available to the fighter class."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tactician",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have studied history and learned to apply its lessons to battle. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence score by 1, to a maximum of 20.",
+						"You gain proficiency with the History skill. If you already are proficient with this skill when you gain this feat, your proficiency bonus is doubled when making an ability check that uses this proficiency.",
+						"As a bonus action on your turn, choose a creature that shares a language with you within 30 feet. The next attack made by that creature has advantage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Thrown Weapons Master",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have mastered the art of throwing weapons. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"The normal and long range of thrown weapons is doubled for you.",
+						"You draw an additional thrown weapon beyond that which is considered free (as per chapter 9, Combat, Player’s Handbook). You can do this before each weapon attack you make if you have the free hand to do so.",
+						"Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.",
+						"hen you take the Attack action and make only ranged weapon attacks with thrown light weapons on your turn, you can use a bonus action to make two ranged weapon attacks with thrown light weapons. These two ranged attacks cannot target the same creature."
+					]
+				}
+			]
+		},			{
+			"name": "Whip Master",
+			"source": "TheCompleteMartialistHandbook",
+			"entries": [
+				"You have extensive training with whip like weapons and have learned a handful of tricks useful in combat. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Once per turn when you deal damage with a whip or weighted chain to a creature that is no more than one size larger than you, you can force that creature to make a Strength saving throw (DC 8 + your proficiency bonus + your choice of your Strength or Dexterity modifier). On a failure, you choose whether the creature drops one object of your choice that it’s holding, falls prone, or has its movement speed reduced to 0 until the start of your next turn.",
+						"When you take the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a whip or weighted chain you are holding."
+					]
+				}
+			]
+		}	
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicBattleMagic",
+				"abbreviation": "DMBM",
+				"full": "Deep Magic: Battle Magic",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net/Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%208%20Battle%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Arcane Charger",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one cantrip."
+							}
+						]
+					}
+				]
+				"A mage charging into the din of battle. Crazy talk.",
+				{
+					"type": "list",
+					"items": [
+						"When you use your action to Dash, you can cast a cantrip with a range of touch by using your bonus action. If you move at least 10 feet in a straight line and hit with your cantrip, you can either add a +5 bonus to the spell’s damage roll or push the target 10 feet away from you."
+					]
+				}
+			]
+		},
+		{
+			"name": "Arms Booster",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"You can channel the power of your spells into an ally’s weapon.",
+				{
+					"type": "list",
+					"items": [
+						"By touching a weapon and expending a spell slot of 1st level or higher as an action, the weapon becomes temporarily magical for a number of rounds equal to the level of the spell slot expended. The weapon counts as magical and gains a +1 bonus to damage rolls but gains no bonus to attack rolls. This effect ends when the duration expires, when you lose your concentration, or when you cast a spell that requires your concentration. You must complete a short or long rest before you can use the arcane infusion again."
+					]
+				}
+			]
+		},
+		{
+			"name": "Battlecaster",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"You are skilled at casting spells with a weapon in hand.",
+				{
+					"type": "list",
+					"items": [
+						"You can use a weapon that you’re proficient with as a spellcasting focus.",
+						"When wielding a magical weapon that you’re proficient with and that provides a bonus to hit and damage, you can also add that weapon’s bonus to damage rolls for spells you cast.",
+						"You gain proficiency with a simple or martial weapon of your choice."
+					]
+				}
+			]
+		},
+		{
+			"name": "Eldritch Lifesaver",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"You’ve learned to cannibalize the power of your spells to reinvigorate your allies.",
+				{
+					"type": "list",
+					"items": [
+						"As a bonus action, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of hit points healed equals the level of the expended slot. In addition, the target gains temporary hit points equal to your spellcasting ability modifier. You must finish a long rest before you can use eldritch lifesaver again."
+					]
+				}
+			]
+		},
+		{
+			"name": "Elemental Trapper",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"Your spells that do elemental damage leave a lingering danger on the battlefield.",
+				{
+					"type": "list",
+					"items": [
+						"When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. When you cast a spell of 1st level or higher that does the chosen type of damage, you can choose to leave behind an elemental cloud that fills the same area as the original spell. Spells that target individuals create a 5-foot-diameter cloud in the target’s space. The cloud is stationary and lasts until the start of your next turn. Creatures that end their turn inside an elemental cloud take damage of the cloud’s type equal to your spellcasting ability modifier + the level of the spell slot expended when the spell was cast."
+					]
+				}
+			]
+		},
+		{
+			"name": "Insperational Caster",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell"
+							}
+						]
+					},
+					{	
+						"stat": [
+							{
+								"name": "Charisma 13 or higher."
+							}
+						]
+					}
+				]
+				"Your impressive and inspiring spells rally allies to your cause.",
+				{
+					"type": "list",
+					"items": [
+						"You gain proficiency in your choice of Intimidation or Persuasion.",
+						"If you target allies with a spell that does not cause damage, those allies gain advantage on saving throws to resist effects that cause charm or fear for a number of rounds equal to your Charisma ability modifier, in addition to the normal effect of the spell."
+					]
+				}
+			]
+		},
+		{
+			"name": "Merciful Caster",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"You are skilled at taking prisoners through the use of even deadly magic.",
+				{
+					"type": "list",
+					"items": [
+						"When damage from one of your spells drops a creature to 0 hit points, you can choose to knock that creature unconscious instead of killing it. You must complete a long rest before merciful caster can be used again. "
+					]
+				}
+			]
+		},
+		{
+			"name": "Resolute Caster",
+			"source": "DeepMagicBattleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"Your magic takes on a life of its own when it matters most.",
+				{
+					"type": "list",
+					"items": [
+						"Your spells with a duration of concentration remain in effect after you lose concentration until the start of your next turn. This is true whether you lost concentration from taking damage, from being knocked unconscious, or even from being killed. (In the case of your death, the spell ends at the point when your next turn would have begun, if you were alive to take it.)"
+					]
+				}
+			]
+		},
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "HerosoftheOrient",
+				"abbreviation": "DMHO",
+				"full": "Deep Magic: Heros of the Orient",
+				"authors": [
+					"Marc Altfuldisch"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net/////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/DMsGuild/Marc%20Altfuldisch/Heroes%20of%20the%20Orient%20v1.3.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Bonded Weapon Wielder",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You learn a ritual that creates a magical bond between yourself and one weapon that deals slashing damage.",
+				{
+					"type": "list",
+					"items": [
+						"You perform the ritual over the course of 8 hours, which can be done during a long rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. Once you have bonded a weapon to yourself, you can’t be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. Only one weapon may be selected as a bonded weapon at a time. You need to meditate for 1 hour with your bonded weapon every day, or the bond is broken, and you must yet again infuse the weapon with your spirit. The meditation can be done during a short rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hengeyokai Ancestry",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"Whether you’re already hengeyokai or not, you’ve discovered that you have a hengeyokai ancestry which you can draw upon. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you select this feat, choose a hengeyokai subrace.",
+						"As an action, you can change your form into that of an animal, back into human form, or into a hybrid form. The type of animal depends on the ancestry you select. While in animal form, you cannot use any of your class abilities, and your Intelligence, Wisdom, Charisma, and hit points stay the same, but you otherwise gain the statistics of the referenced animal. In hybrid form you resemble your chosen animal in humanoid form, retain all your statistics and class abilities, but cannot use any of your animal abilities. You can select this feat multiple times. Each time you do so, you must choose a different ancestry."
+					]
+				}
+			]
+		},
+		{
+			"name": "Immovable",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"Strong in body and mind, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Strength score by 1, to a maximum of 20.",
+						"You cannot be grappled, knocked prone, or moved by a Huge or smaller creature, except through magical means."
+					]
+				}
+			]
+		},
+		{
+			"name": "Instinctive",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You are exceptionally instinctive. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Wisdom score by 1, to a maximum of 20.",
+						"You have advantage on Wisdom (insight) checks to discern if somebody is lying to you, and Wisdom (perception) checks to spot traps or their related triggers.",
+						"You instinctively know the fastest route to travel and how a trap works when you inspect it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Knife Juggler",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You have mastered the throwing of weapons. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you throw a weapon or item, you can also draw it as part of the same action.",
+						"When you use the Attack action to throw a weapon or an object, you can use your bonus action to make an additional throw with a light thrown weapon with which you are proficient.",
+						"The short and long range of all thrown weapons with which you are proficient is doubled for you.",
+						"You can use your reaction to throw a light thrown weapon with which you are proficient, when a hostile creature enters the short range of your thrown weapon."
+					]
+				}
+			]
+		},
+		{
+			"name": "Offensive Duelist",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You have mastered the art of hacking apart your enemies. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you are wielding a two-handed or versatile melee weapon in two hands with which you are proficient and another creature hits you with a melee attack, you can use your reaction to immediately retaliate with an opportunity attack. Additionally, you can ignore any AC a hostile creature gains from wielding a shield."
+					]
+				}
+			]
+		},
+		{
+			"name": "Phoenix Touched",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You have been blessed by the great phoenix. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you drop to 0 hit points, but don’t die outright, you instead drop to 1 hit point as violent flames burst forth from you. Any creature within 10 feet of you when you erupt must attempt a Dexterity saving throw (save DC = 8 + your proficiency modifier + your Constitution modifier), taking 21 (6d6) fire damage on a failed save or half as much on a successful one. The explosion ignites flammable objects in the area that aren’t being worn or carried. Once you use this feature, you must finish a long rest before you can do so again.",
+						"You have advantage on death saving throws.",
+						"When you take fire damage, you can use your reaction to gain resistance to fire damage until the start of your next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tainted",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"Your body has adapted to repeated Taint exposure, granting you the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Your gain immunity against Taint and all its effects.",
+						"You instinctively recognize any creature corrupted by Taint.",
+						"You gain advantage on attack rolls against any creature native to the Taint."
+					]
+				}
+			]
+		},
+		{
+			"name": "Shadowlands",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"Your body has adapted to repeated Taint exposure, granting you the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Your physical appearance changes. Roll on or choose from the Minor Physical Feature table in the Villainous Class Option: Ravager entry for the kensai class.",
+						"You gain advantage on Charisma (intimidation) checks against creatures unaffected by taint."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tattooed",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"As a reward for your heroic deeds, a master tattooed monk inscribes a magical tattoo unto your skin.",
+				{
+					"type": "list",
+					"items": [
+						"Choose a tattoo without prerequisites from the Way of Ancient Symbols monk in this book. All tattoos are magical, and the abilities they bestow are supernatural. If you stand in an antimagic field you lose all benefits of your tattoos.",
+						"You can select this feat multiple times. Each time you do so, you must choose a different tattoo."
+					]
+				}
+			]
+		},
+		{
+			"name": "Yari Master",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"Thanks to extensive training with spears and spear-like weapons, you gain the following benefits with the yari, kamayari, umayari, nagaeyari, and magariyari:",
+				{
+					"type": "list",
+					"items": [
+						"When you take the Attack action with your weapon, you can use your bonus action to increase your reach by 5 feet until the end of your turn.",
+						"You have advantage on attack rolls against mounted combatants.",
+						"When a mounted combatant enters your reach, you can use your reaction to make an opportunity against them or the creature they ride.",
+						"A successful attack against a ridden creature, reduces the creatures movement to 0 until the end of its next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Void Touched",
+			"source": "HerosoftheOrient",
+			"entries": [
+				"You have been touched by the void. Though this has infected you to your core, you have learned to draw upon the power of the void. You gain the following features:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence or Charisma score by 1, to a maximum of 20.",
+						"If you fail a saving throw, you can choose to succeed instead.",
+						"After rolling initiative, you can steal another creature’s initiative and replace it with your own.",
+						"Once you use either feature, you cannot do so again until you finish a long rest."
+					]
+				}
+			]
+		}
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicVoidMagic",
+				"abbreviation": "DMCM",
+				"full": "Deep Magic: Void Magic",
+				"authors": [
+					"Dan Dillon"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Void Channeler",
+			"source": "DeepMagicVoidMagic",
+			"entries": [
+				"You can speak aloud a word or short phrase in void speech.",
+				{
+					"type": "list",
+					"items": [
+						"As an action, you can speak aloud a word or short phrase in void speech. One creature of your choice within 10 feet that can hear you must succeed on a Wisdom saving throw against  this magic (DC 8 + your proficiency bonus + your Charisma modifier) or be frightened of you for 1 minute. A frightened creature can repeat the saving throw at the end of its turn, ending the effect on itself on a success. Other creatures who can hear you suffer minor reactions to the void speech such as spontaneous nosebleeds, headaches, bits of hair falling out, and other unsettling effects. The first time you use this ability, you suffer no adverse effect. If you use it again before completing a short or long rest, you take 1d4 necrotic damage. Each additional time you use it before finishing a rest, the necrotic damage increases by 1d4."
+					]
+				}
+			]
+		},
+		{
+			"name": "Void Scribe",
+			"source": "DeepMagicVoidMagic",
+			"entries": [
+				"You can use a writing medium to inscribe a magical void glyph.",
+				{
+					"type": "list",
+					"items": [
+						"As an action, you can use a writing medium to inscribe a magical void glyph on an unattended object within reach. As long as the glyph remains intact, the object is vulnerable to necrotic damage and it takes 1d6 necrotic damage at the end of your turn. For the glyph to remain intact, you must concentrate on it as if concentrating on a spell. In addition to the normal demands of concentration, you must also make a successful DC 10 Constitution saving throw at the start of your turn or the glyph crumbles away and ceases to function."
+					]
+				}
+			]
+		}
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicCircleMagic",
+				"abbreviation": "DMCM",
+				"full": "Deep Magic: Circle Magic",
+				"authors": [
+					"Dan Dillon"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Circle Caster",
+			"source": "DeepMagicCircleMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"You have learned to create a circular flow of magic between yourself and an allied spellcaster to bolster your spells. You gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.",
+						"You can spend 2 hours (including during a long rest) creating a mystical bond with another spellcaster. Both of you must spend this time in meditation, and you must remain within 10 feet of each other. Once the bond is formed, you can work together to bolster one another’s magic. When one of you casts a spell that requires concentration, the other can use their reaction to help maintain the spell. If the caster must make a Constitution saving throw to maintain concentration on the spell, both of you make the saving throw. If either of you succeeds, concentration is unbroken. If both saving throws fail, you both lose concentration on any spells you are currently maintaining and you both take 2d6 psychic damage from the strain. You can maintain this bond with only one spellcaster at a time. If you create a new bond, the previous bond breaks. Otherwise, it lasts until the end of your next long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ring-Bound",
+			"source": "DeepMagicCircleMagic",
+			"entries": [
+				"You have acquired a ring-magic-imbued ring as a token of respect. You gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"You have advantage on saving throws against transmutation spells.",
+						"You can physically bind your ring token to a weapon with 1 hour of work that can be completed during a short rest. While the ring is attached to the weapon, you can use a bonus action to make the weapon magical until the start of your next turn. After activating this ability twice, you must complete a short or long rest before using it again.",
+						"Ring wardens and others who respect the traditions of ring magic are favorably disposed toward you. Their starting attitude toward you automatically improves by one step, and you have advantage on Charisma checks related to social interaction with such creatures."
+					]
+				}
+			]
+		}
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicLeyLines",
+				"abbreviation": "DMLL",
+				"full": "Deep Magic: Ley Lines",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%205%20Ley%20Lines.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Ley Initiate",
+			"source": "DeepMagicLeyLines",
+			"entries": [
+				"prerequisite": [
+					{
+						"Stat": [
+							{
+								"name": "Intelligence or Wisdom 13 or higher"
+							}
+						]
+					}
+				]
+				"You see ley lines and can draw on their power. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence or Wisdom score by 1, to a maximum of 20.",
+						"You can sense the presence of every ley line within 1 mile of your location. If you have line of sight to the line itself, it’s visible to you in some obviously magical fashion.",
+						"You can tap ley lines for their inherent powers.",
+						"When you finish a short rest within 1 mile of a ley line, you can regain one expended spell slot whose level is no higher than your Intelligence or Wisdom modifier (your choice, minimum of 1st level). You can’t use this ability again until you finish a long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ley-Bound",
+			"source": "DeepMagicLeyLines",
+			"entries": [
+				"You instinctively feel the flow of ley line energy and draw insight from it. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence or Wisdom score by 1, to a maximum of 20.",
+						"You have advantage on Wisdom (Survival) checks made to track a creature overland or to forage for food and water.",
+						"When you finish a long rest within 1 mile of a ley line, you gain inspiration. If unused, this inspiration fades away after your next long rest.",
+						"When you finish a long rest within 1 mile of a ley line, you can infuse ley energy into a token in your possession. If you make a saving throw while you have the infused token in your possession, you can use your reaction to roll a d4 and add the result to your saving throw. You can trigger this ability after rolling the d20 but before success or failure is revealed. You can’t use this ability again until you finish a long rest."
+					]
+				}
+			]
+		}
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicIlluminationMagic",
+				"abbreviation": "DMIM",
+				"full": "Deep Magic: Illumination Magic",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%204%20Illumination%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Star and Shadow Reader",
+			"source": "DeepMagicIlluminationMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to cast at least one spell."
+							}
+						]
+					}
+				]
+				"By tracking the movements of the heavens, you gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"When you gain this feat, choose either radiant or necrotic damage. Spells you cast ignore resistance (but not vulnerability) to the type of damage you chose.",
+						"You can cast augury once between each of your long rests without expending a spell slot.",
+						"You gain darkvision to a distance of 15 feet. If you already have darkvision, increase its range by 15 feet."
+					]
+				}
+			]
+		},
+	]
+}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DeepMagicDragonMagic",
+				"abbreviation": "DMDM",
+				"full": "Deep Magic: Dragon Magic",
+				"authors": [
+					"Shawn Merwin"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%2013%20Dragon%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 
+	},
+	"feat": [
+		{
+			"name": "Careful Dragon Mask",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to invoke a dragon mask"
+							}
+						]
+					}
+				]
+				"You’ve mastered the ability to cast spells while wearing your dragon mask.",
+				{
+					"type": "list",
+					"items": [
+						"With this feat, you no longer have disadvantage on attack rolls with spells and cantrips, and the targets of your spells don’t have advantage on saving throws, while you’re under the effect of your dragon mask."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dual Dragon Aspect",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to invoke dragon wings"
+							}
+						]
+					}
+				]
+				"You’ve mastered the difficult ability to wear two different dragon aspects at the same time.",
+				{
+					"type": "list",
+					"items": [
+						"When you switch from one aspect to another, the aspect you remove lingers for 1 round, provided its maximum duration hasn’t expired. During this 1 round of overlap, both aspects are visible and you have full access to the benefits and drawbacks of both aspects simultaneously."
+					]
+				}
+			]
+		},
+		{
+			"name": "Fearsome Dragon Mask",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to invoke a dragon mask"
+							}
+						]
+					}
+				]
+				"You can manipulate the visage of your dragon mask to be a terrifying sight to your foes.",
+				{
+					"type": "list",
+					"items": [
+						"Any target struck by your mask’s bite attack must make a successful Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn. If you augmented the attack with a spell slot, the frightened condition lasts an additional number of rounds = the level of the expended spell slot."
+					]
+				}
+			]
+		},
+		{
+			"name": "Radiant Dragon's Heart",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to invoke a dragon heart"
+							}
+						]
+					}
+				]
+				"You can link radiant power to your dragon heart.",
+				{
+					"type": "list",
+					"items": [
+						"In addition to the damage type done by your dragon heart’s breath attack, the damage is also considered radiant. In addition, a creature that fails its saving throw against the breath weapon is also blinded until the end of your next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Find the Titan's Weakness",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"You can spot the weaknesses in a foe’s defenses. You gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Wisdom score by 1, to a maximum of 20.",
+						"As an action, you analyze the defenses of one Large or larger creature you can see. Your next attack against that creature is made with advantage, and the attack scores a critical hit on a natural roll of 18, 19, or 20."
+					]
+				}
+			]
+		},
+		{
+			"name": "Fortifying Healer",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Ability": [
+							{
+								"name": "The ability to cast at least one spell"
+							}
+						]
+					}
+				]
+				"Your healing magic is augmented by the fortifying magic of resolute bravery.",
+				{
+					"type": "list",
+					"items": [
+						"If you target one or more allies with a spell that allows them to regain hit points, those allies are immune to being frightened for a number of rounds = the level of the healing spell. In addition, one ally who healed hit points (your choice) gains inspiration. You must complete a short or long rest before you can grant inspiration again."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dragonsmith",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"You have studied the craft of turning components from a dragon’s body into weapons and armor.",
+				{
+					"type": "list",
+					"items": [
+						"Working in conjunction with a master weaponsmith or armorsmith, you can create weapons and armor from the teeth, bones, scales, hide, or other parts of a dragon. The cost to create these items is ten times the normal cost of the item. The number and type of items that can be made from a particular dragon’s corpse is up to the GM, but considering how much violence must be inflicted on a dragon to bring it down, the amount of salvageable raw matieral is low; dragons don’t die from superficial damage. Any type of melee weapon or bow can be made. The resulting weapon, in the hands of a proficient wielder, does an additional 1d6 damage of a type appropriate to the dragon whose body was used to create the weapon. For example, a blue dragon dagger does 1d4 piercing damage plus 1d6 lightning damage. Any type of armor can be made except padded or chain (shirt or mail). The resulting armor or shield, in the panoply of a proficient user, provides resistance to the damage type appropriate to the source dragon. For example, black dragon scale mail gives its wearer resistance to acid damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dragonrider",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Stat": [
+							{
+								"name": "Strength or Dexterity 15 or higher"
+							}
+						]
+					}
+				]
+				"You have trained to climb atop an opponent much larger than yourself, giving you an advantage in combat against enormous foes. You gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"During your movement, you can try to enter the space of a creature at least two size categories larger than you. To do so, conduct a contest between your Strength (Athletics) or Dexterity (Acrobatics) opposed by the creature’s Dexterity (Acrobatics). If you win, you enter the creature’s space and are considered to be riding it. If you lose, you don’t enter the creature’s space and your movement ends. ",
+						"While you’re riding the creature, if it moves, you move with it. You also have advantage on your first melee attack against the creature on each of your turns.",
+						"The creature’s attacks against a rider are made with disadvantage."
+						"The creature can dislodge you by using an action to conduct a contest between its Dexterity (Acrobatics) and your Dexterity (Acrobatics) or Strength (Athletics), whichever you prefer. If it wins the contest, you are flung off the creature and land on your feet, unharmed, in an adjacent space of your choice."
+					]
+				}
+			]
+		},
+		{
+			"name": "Unthreatening",
+			"source": "DeepMagicDragonMagic",
+			"entries": [
+				"prerequisite": [
+					{
+						"Stat": [
+							{
+								"name": "Charisma 13 or higher"
+							}
+						]
+					}
+				]
+				"You’re adept at making yourself seem to be less of a threat than you actually are. You gain the following benefits.",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Charisma score by 1, to a maximum of 20.",
+						"When a creature two or more size categories larger than you targets you with a melee weapon attack, you can use your reaction to make yourself seem pathetic and unthreatening. The creature must redirect its attack against a different target; if no alternative target is within the attacker’s reach or range, it can still attack you. Until the end of your next turn, your next melee or ranged attack against that creature is made with advantage. You must complete a short or long rest before using this ability again."
+					]
+				}
+			]
+		}
+	]
+}
