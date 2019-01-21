@@ -826,7 +826,7 @@
 		},
 		{
 			"name": "Circle Caster",
-			"source": "DeepMagicCircleMagicMagic",
+			"source": "DeepMagicCircleMagic",
 			"prerequisite": {
 				"ability": {
 					"name": "The ability to cast at least one spell."
