@@ -14,9 +14,106 @@
 				"version": "0.1.0",
 				"url": "https://thetrove.net//Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/DMsGuild/D&D5e%20-%20The%20Complete%20Martialist%20Handbook%20v0.2.pdf",
 				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicDragonMagic",
+				"abbreviation": "DMDM",
+				"full": "Deep Magic: Dragon Magic",
+				"authors": [
+					"Shawn Merwin"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%2013%20Dragon%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicIlluminationMagic",
+				"abbreviation": "DMIM",
+				"full": "Deep Magic: Illumination Magic",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%204%20Illumination%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicLeyLines",
+				"abbreviation": "DMLL",
+				"full": "Deep Magic: Ley Lines",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%205%20Ley%20Lines.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicCircleMagic",
+				"abbreviation": "DMCM",
+				"full": "Deep Magic: Circle Magic",
+				"authors": [
+					"Dan Dillon"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicVoidMagic",
+				"abbreviation": "DMCM",
+				"full": "Deep Magic: Void Magic",
+				"authors": [
+					"Dan Dillon"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "HerosoftheOrient",
+				"abbreviation": "DMHO",
+				"full": "Deep Magic: Heros of the Orient",
+				"authors": [
+					"Marc Altfuldisch"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net/////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/DMsGuild/Marc%20Altfuldisch/Heroes%20of%20the%20Orient%20v1.3.pdf",
+				"targetSchema": "1.1.2"
+			},
+			{
+				"json": "DeepMagicBattleMagic",
+				"abbreviation": "DMBM",
+				"full": "Deep Magic: Battle Magic",
+				"authors": [
+					"Greg Marks"
+				],
+				"convertedBy": [
+					"ChronoLord"
+				],
+				"version": "0.1.0",
+				"url": "https://thetrove.net/Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%208%20Battle%20Magic.pdf",
+				"targetSchema": "1.1.2"
 			}
-		],
-		"dateAdded": 
+		]
 	},
 	"feat": [
 		{
@@ -77,7 +174,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Fencer",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -155,7 +253,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Martial Artist (Drunken Monkey Style)",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -171,7 +270,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Martial Artist (Fanged Serpent Style)",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -187,7 +287,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Martial Artist (Iron Fist Style)",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -203,7 +304,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Martial Artist (Silent Shadow Style)",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -219,7 +321,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Martial Artist (Spider Clan Style)",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -298,7 +401,8 @@
 					]
 				}
 			]
-		},		{
+		},		
+		{
 			"name": "Staff Master",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -357,7 +461,8 @@
 					]
 				}
 			]
-		},			{
+		},			
+		{
 			"name": "Whip Master",
 			"source": "TheCompleteMartialistHandbook",
 			"entries": [
@@ -370,43 +475,16 @@
 					]
 				}
 			]
-		}	
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicBattleMagic",
-				"abbreviation": "DMBM",
-				"full": "Deep Magic: Battle Magic",
-				"authors": [
-					"Greg Marks"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net/Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%208%20Battle%20Magic.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
+		},
 		{
 			"name": "Arcane Charger",
 			"source": "DeepMagicBattleMagic",
-			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one cantrip."
-							}
-						]
-					}
-				]
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one cantrip."
+				}
+			},
+			"entries":[
 				"A mage charging into the din of battle. Crazy talk.",
 				{
 					"type": "list",
@@ -419,16 +497,12 @@
 		{
 			"name": "Arms Booster",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+						"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"You can channel the power of your spells into an ally’s weapon.",
 				{
 					"type": "list",
@@ -441,16 +515,12 @@
 		{
 			"name": "Battlecaster",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"You are skilled at casting spells with a weapon in hand.",
 				{
 					"type": "list",
@@ -465,16 +535,12 @@
 		{
 			"name": "Eldritch Lifesaver",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"You’ve learned to cannibalize the power of your spells to reinvigorate your allies.",
 				{
 					"type": "list",
@@ -487,21 +553,17 @@
 		{
 			"name": "Elemental Trapper",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"Your spells that do elemental damage leave a lingering danger on the battlefield.",
 				{
 					"type": "list",
 					"items": [
-						"When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. When you cast a spell of 1st level or higher that does the chosen type of damage, you can choose to leave behind an elemental cloud that fills the same area as the original spell. Spells that target individuals create a 5-foot-diameter cloud in the target’s space. The cloud is stationary and lasts until the start of your next turn. Creatures that end their turn inside an elemental cloud take damage of the cloud’s type equal to your spellcasting ability modifier + the level of the spell slot expended when the spell was cast."
+						"When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.When you cast a spell of 1 st level or higher that does the chosen type of damage, you can choose to leave behind an elemental cloud that fills the same area as the original spell.Spells that target individuals create a 5 - foot - diameter cloud in the target’ s space.The cloud is stationary and lasts until the start of your next turn.Creatures that end their turn inside an elemental cloud take damage of the cloud’ s type equal to your spellcasting ability modifier + the level of the spell slot expended when the spell was cast."
 					]
 				}
 			]
@@ -509,23 +571,12 @@
 		{
 			"name": "Insperational Caster",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell, Cha 13 or higher."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell"
-							}
-						]
-					},
-					{	
-						"stat": [
-							{
-								"name": "Charisma 13 or higher."
-							}
-						]
-					}
-				]
 				"Your impressive and inspiring spells rally allies to your cause.",
 				{
 					"type": "list",
@@ -539,21 +590,17 @@
 		{
 			"name": "Merciful Caster",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"You are skilled at taking prisoners through the use of even deadly magic.",
 				{
 					"type": "list",
 					"items": [
-						"When damage from one of your spells drops a creature to 0 hit points, you can choose to knock that creature unconscious instead of killing it. You must complete a long rest before merciful caster can be used again. "
+						"When damage from one of your spells drops a creature to 0 hit points, you can choose to knock that creature unconscious instead of killing it. You must complete a long rest before merciful caster can be used again."
 					]
 				}
 			]
@@ -561,16 +608,12 @@
 		{
 			"name": "Resolute Caster",
 			"source": "DeepMagicBattleMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"Your magic takes on a life of its own when it matters most.",
 				{
 					"type": "list",
@@ -580,29 +623,6 @@
 				}
 			]
 		},
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "HerosoftheOrient",
-				"abbreviation": "DMHO",
-				"full": "Deep Magic: Heros of the Orient",
-				"authors": [
-					"Marc Altfuldisch"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net/////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/DMsGuild/Marc%20Altfuldisch/Heroes%20of%20the%20Orient%20v1.3.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
 		{
 			"name": "Bonded Weapon Wielder",
 			"source": "HerosoftheOrient",
@@ -777,30 +797,7 @@
 					]
 				}
 			]
-		}
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicVoidMagic",
-				"abbreviation": "DMCM",
-				"full": "Deep Magic: Void Magic",
-				"authors": [
-					"Dan Dillon"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
+		},
 		{
 			"name": "Void Channeler",
 			"source": "DeepMagicVoidMagic",
@@ -826,43 +823,16 @@
 					]
 				}
 			]
-		}
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicCircleMagic",
-				"abbreviation": "DMCM",
-				"full": "Deep Magic: Circle Magic",
-				"authors": [
-					"Dan Dillon"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%209%20Ring%20Magic.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
+		},
 		{
 			"name": "Circle Caster",
-			"source": "DeepMagicCircleMagic",
+			"source": "DeepMagicCircleMagicMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"You have learned to create a circular flow of magic between yourself and an allied spellcaster to bolster your spells. You gain the following benefits.",
 				{
 					"type": "list",
@@ -887,47 +857,21 @@
 					]
 				}
 			]
-		}
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicLeyLines",
-				"abbreviation": "DMLL",
-				"full": "Deep Magic: Ley Lines",
-				"authors": [
-					"Greg Marks"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%205%20Ley%20Lines.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
+		},
 		{
 			"name": "Ley Initiate",
 			"source": "DeepMagicLeyLines",
+			"prerequisite": {
+				"stat": {
+					"name": "Intelligence or Wisdom 13 or higher"
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Stat": [
-							{
-								"name": "Intelligence or Wisdom 13 or higher"
-							}
-						]
-					}
-				]
 				"You see ley lines and can draw on their power. You gain the following benefits:",
 				{
 					"type": "list",
 					"items": [
+						"Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.",
 						"Increase your Intelligence or Wisdom score by 1, to a maximum of 20.",
 						"You can sense the presence of every ley line within 1 mile of your location. If you have line of sight to the line itself, it’s visible to you in some obviously magical fashion.",
 						"You can tap ley lines for their inherent powers.",
@@ -951,43 +895,16 @@
 					]
 				}
 			]
-		}
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicIlluminationMagic",
-				"abbreviation": "DMIM",
-				"full": "Deep Magic: Illumination Magic",
-				"authors": [
-					"Greg Marks"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%204%20Illumination%20Magic.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
+		},
 		{
 			"name": "Star and Shadow Reader",
 			"source": "DeepMagicIlluminationMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to cast at least one spell."
-							}
-						]
-					}
-				]
 				"By tracking the movements of the heavens, you gain the following benefits.",
 				{
 					"type": "list",
@@ -999,42 +916,15 @@
 				}
 			]
 		},
-	]
-}
-{
-	"_meta": {
-		"sources": [
-			{
-				"json": "DeepMagicDragonMagic",
-				"abbreviation": "DMDM",
-				"full": "Deep Magic: Dragon Magic",
-				"authors": [
-					"Shawn Merwin"
-				],
-				"convertedBy": [
-					"ChronoLord"
-				],
-				"version": "0.1.0",
-				"url": "https://thetrove.net////Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Kobold%20Press/Deep%20Magic%2013%20Dragon%20Magic.pdf",
-				"targetSchema": "1.1.2"
-			}
-		],
-		"dateAdded": 
-	},
-	"feat": [
 		{
 			"name": "Careful Dragon Mask",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to invoke dragon mask."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to invoke a dragon mask"
-							}
-						]
-					}
-				]
 				"You’ve mastered the ability to cast spells while wearing your dragon mask.",
 				{
 					"type": "list",
@@ -1047,16 +937,12 @@
 		{
 			"name": "Dual Dragon Aspect",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to invoke dragon wings."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to invoke dragon wings"
-							}
-						]
-					}
-				]
 				"You’ve mastered the difficult ability to wear two different dragon aspects at the same time.",
 				{
 					"type": "list",
@@ -1069,16 +955,12 @@
 		{
 			"name": "Fearsome Dragon Mask",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to invoke a dragon mask."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to invoke a dragon mask"
-							}
-						]
-					}
-				]
 				"You can manipulate the visage of your dragon mask to be a terrifying sight to your foes.",
 				{
 					"type": "list",
@@ -1091,16 +973,12 @@
 		{
 			"name": "Radiant Dragon's Heart",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to invoke a dragon heart."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to invoke a dragon heart"
-							}
-						]
-					}
-				]
 				"You can link radiant power to your dragon heart.",
 				{
 					"type": "list",
@@ -1127,16 +1005,12 @@
 		{
 			"name": "Fortifying Healer",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"ability": {
+					"name": "The ability to cast at least one spell."
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Ability": [
-							{
-								"name": "The ability to cast at least one spell"
-							}
-						]
-					}
-				]
 				"Your healing magic is augmented by the fortifying magic of resolute bravery.",
 				{
 					"type": "list",
@@ -1162,23 +1036,19 @@
 		{
 			"name": "Dragonrider",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"stat": {
+					"name": "Strength or Dexterity 15 or higher"
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Stat": [
-							{
-								"name": "Strength or Dexterity 15 or higher"
-							}
-						]
-					}
-				]
 				"You have trained to climb atop an opponent much larger than yourself, giving you an advantage in combat against enormous foes. You gain the following benefits.",
 				{
 					"type": "list",
 					"items": [
 						"During your movement, you can try to enter the space of a creature at least two size categories larger than you. To do so, conduct a contest between your Strength (Athletics) or Dexterity (Acrobatics) opposed by the creature’s Dexterity (Acrobatics). If you win, you enter the creature’s space and are considered to be riding it. If you lose, you don’t enter the creature’s space and your movement ends. ",
 						"While you’re riding the creature, if it moves, you move with it. You also have advantage on your first melee attack against the creature on each of your turns.",
-						"The creature’s attacks against a rider are made with disadvantage."
+						"The creature’s attacks against a rider are made with disadvantage.",
 						"The creature can dislodge you by using an action to conduct a contest between its Dexterity (Acrobatics) and your Dexterity (Acrobatics) or Strength (Athletics), whichever you prefer. If it wins the contest, you are flung off the creature and land on your feet, unharmed, in an adjacent space of your choice."
 					]
 				}
@@ -1187,17 +1057,13 @@
 		{
 			"name": "Unthreatening",
 			"source": "DeepMagicDragonMagic",
+			"prerequisite": {
+				"stat": {
+					"name": "Charisma 13 or higher"
+				}
+			},
 			"entries": [
-				"prerequisite": [
-					{
-						"Stat": [
-							{
-								"name": "Charisma 13 or higher"
-							}
-						]
-					}
-				]
-				"You’re adept at making yourself seem to be less of a threat than you actually are. You gain the following benefits.",
+				"You’re adept at making yourself seem to be less of a threat than you actually are. You gain the following benefits:",
 				{
 					"type": "list",
 					"items": [
